@@ -40,5 +40,6 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/e17f27ccb104b1ee595bb3c320eaf9ab8d0b1767969bc204fb7813db450ebd8f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76322e706e67" alt="javascript" width="40" height="40"/> </a>
 
 
