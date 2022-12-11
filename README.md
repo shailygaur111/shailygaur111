@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently working on **improving my skills**
 
-- 🔭 Well, I am Shaily Gaur motivated Postgraduate student pursuing my MBA  in the specialisation HR from the KIET. 
+- 🔭 Well, I am Shaily Gaur motivated Postgraduate student pursuing my MBA with specialisation in HR from the KIET. 
 - ⚡ I have a keen interest in Personnel Management.
 
 - 💻 I have done some projects.
