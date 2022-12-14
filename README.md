@@ -23,7 +23,7 @@
 - 🔭 Well, I am Shaily Gaur motivated Postgraduate student pursuing my MBA with specialisation in HR from the KIET. 
 - ⚡ I have a keen interest in Personnel Management.
 
-- 💻 I have done some projects.
+- 💻 I have done some projects
 
 - 📫 How to reach me: **shailygaur111@gmail.com**
 
