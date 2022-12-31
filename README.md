@@ -44,6 +44,9 @@
     <a href="https://iconscout.com/icons/excel" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-128/microsoft-excel-1411847-1194336.png" alt="sass" width="40" height="40"/> </a>
     <a href="https://iconscout.com/icons/powerpoint" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-128/powerpoint-1-190810.png" alt="sass" width="40" height="40"/> </a>
     <a href="https://icons8.com/icons/set/power-bi" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/power-bi.png" alt="sass" width="40" height="40"/> </a>
-    
+    </p>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
